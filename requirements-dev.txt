@@ -5,4 +5,4 @@
 
 flake8==3.7.7
 pre-commit==1.14.4
-black==19.3b0
+black==24.3.0
